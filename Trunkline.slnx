@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Trunkline.Api/Trunkline.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Trunkline.Api.Tests/Trunkline.Api.Tests.csproj" />
+  </Folder>
+</Solution>
